@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What are the symptoms of yellow rust in wheat?",
+    "expected_answer": "Yellow rust appears as yellow powdery stripes on wheat leaves.",
+    "expected_doc_id": "doc1",
+    "keywords": ["yellow", "powdery", "stripes", "leaves"]
+  },
+  {
+    "question": "How can loose smut in wheat be controlled?",
+    "expected_answer": "Loose smut can be controlled by using healthy seeds and seed treatment before sowing.",
+    "expected_doc_id": "doc2",
+    "keywords": ["healthy", "seeds", "seed", "treatment"]
+  },
+  {
+    "question": "Which irrigation stage is most critical for wheat?",
+    "expected_answer": "The crown root initiation stage is the most critical irrigation stage for wheat.",
+    "expected_doc_id": "doc3",
+    "keywords": ["crown", "root", "initiation", "critical"]
+  },
+  {
+    "question": "Why is nitrogen important for wheat?",
+    "expected_answer": "Nitrogen supports leaf development and grain production in wheat.",
+    "expected_doc_id": "doc4",
+    "keywords": ["nitrogen", "leaf", "development", "grain"]
+  },
+  {
+    "question": "Why should weeds be controlled early in wheat?",
+    "expected_answer": "Early weed control improves wheat growth and yield.",
+    "expected_doc_id": "doc5",
+    "keywords": ["early", "weed", "growth", "yield"]
+  },
+  {
+    "question": "What weather helps yellow rust spread?",
+    "expected_answer": "Yellow rust spreads faster in cool and moist weather.",
+    "expected_doc_id": "doc1",
+    "keywords": ["cool", "moist", "weather", "spread"]
+  }
+]

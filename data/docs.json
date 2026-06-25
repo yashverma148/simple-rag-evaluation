@@ -1,0 +1,27 @@
+[
+  {
+    "id": "doc1",
+    "title": "Yellow Rust in Wheat",
+    "text": "Yellow rust is a fungal disease of wheat. It appears as yellow powdery stripes on leaves. It spreads faster in cool and moist weather. Farmers should use resistant varieties and recommended fungicides to control yellow rust."
+  },
+  {
+    "id": "doc2",
+    "title": "Loose Smut in Wheat",
+    "text": "Loose smut is a seed-borne disease of wheat. Infected wheat heads become black and powdery. The disease can be controlled by using healthy seeds and proper seed treatment before sowing."
+  },
+  {
+    "id": "doc3",
+    "title": "Irrigation in Wheat",
+    "text": "Wheat needs irrigation at important growth stages. The crown root initiation stage is the most critical stage for irrigation. Other important stages include tillering, flowering, and grain filling."
+  },
+  {
+    "id": "doc4",
+    "title": "Nitrogen Management in Wheat",
+    "text": "Nitrogen is an important nutrient for wheat growth. It supports leaf development and grain production. Split application of nitrogen is better than applying all nitrogen at once."
+  },
+  {
+    "id": "doc5",
+    "title": "Weed Control in Wheat",
+    "text": "Weeds compete with wheat plants for nutrients, water, and sunlight. Early weed control improves crop growth and yield. Farmers can use manual weeding or recommended herbicides for weed management."
+  }
+]
